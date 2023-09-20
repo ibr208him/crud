@@ -69,6 +69,6 @@ deleteAllbtn.addEventListener('click',function(){
     deleteAll();
 })
 var deleteAll=function(){
-    courses='';
+    courses=[];
     displayData();
 }
